@@ -1,11 +1,15 @@
 # Título
+
 Isso é um parágrafo
 
 > Site [Mermaid](https://mermaid.js.org/syntax/flowchart.html) para gráficos
+>
 > Site [Markdown](https://www.markdownguide.org/basic-syntax/) para markdown
+>
 > Site [Extensões](https://facelessuser.github.io/pymdown-extensions/extensions/arithmatex/)
 
 ## Subtítulo
+
 Isso é um parágrafo
 
 Isso é uma lista ordenada:
@@ -22,13 +26,13 @@ Isso é uma lista ordenada:
 
 > Comentário sobre o texto
 
-**Negrito** 
+**Negrito**
 
 *Itálico*
 
 `destaque`
 
-```
+```text
 Citação longa
 com muitas linhas
 tldr

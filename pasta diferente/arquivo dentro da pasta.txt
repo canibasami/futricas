@@ -1,0 +1,4 @@
+Add -> adiciona novidades (diff) do meu computador no stage
+    Stage -> estdado do diff (intermediário). Pode ser revertido
+Commit -> adiciona no DB do meu computador (git). Não pode ser revertido (pode, mas melhor não)
+Push -> manda cópia do DB para o github
